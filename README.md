@@ -1,5 +1,5 @@
-#JAI PRADHA
-#212223060096
+# JAI PRADHA
+# 212223060096
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
