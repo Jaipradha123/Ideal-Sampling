@@ -1,3 +1,5 @@
+#JAI PRADHA
+#212223060096
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -118,7 +120,7 @@ for i in range(0, len(t), int(fs / pulse_rate)):
 
 # Natural Sampling 
 
-nat_signal = message_signal * pulse_train 
+nat_signal = message_signal * pulse_train
 
 # Reconstruction (Demodulation) Process 
 
